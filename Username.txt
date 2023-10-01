@@ -1,0 +1,19 @@
+Customers :
+
+Uname 			Password
+
+ajith 			pass
+sam			    pass
+
+
+
+Clients :
+admin 			1234
+sam			    1234	
+sampath			allow
+ganesh          ganesh
+
+
+admin :
+
+admin           admin
